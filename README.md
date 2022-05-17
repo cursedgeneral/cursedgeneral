@@ -4,7 +4,7 @@
   
   </p>
 <p align="center">
-<img align="center" alt="Lyla Watts" width="400" src="https://dev-app.ssdcloud.pro/0d6c614a5af05aebbcaa8182d477571e-modified.png">
+<img align="center" alt="Lyla Watts" width="400" src="https://avatars.githubusercontent.com/u/81561807?v=4">
 </p>
 <p align="center">
   <img src="https://img.shields.io/github/followers/cursedgeneral?style=social">
