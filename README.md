@@ -13,7 +13,7 @@
   <img src="https://img.shields.io/badge/Discord-iiCxndy🍬%236715-blue">
   <p>
 <h2 align="center">😄 Call me anything you would like. 😄</h2>
-<h2 align="center">📫 If you need me, reach me on admin@ssdcloud.pro 📫</h2>
+<h2 align="center">📫 If you need me, reach me on lylawatts.official@outlook.com 📫</h2>
 <h2 align="center">🔭 I’m currently owning a hosting platform. 🔭</h2>
 <p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cursedgeneral&langs_count=5&theme=radical" /></p>
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cursedgeneral&show_icons=true&theme=radical"/></p>
