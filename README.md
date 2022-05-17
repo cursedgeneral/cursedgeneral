@@ -10,7 +10,7 @@
   <img src="https://img.shields.io/github/followers/cursedgeneral?style=social">
   <img src="https://img.shields.io/youtube/channel/subscribers/UCE91ZYpYFMJJOuqUJihqizw?style=social">
   <img src="https://img.shields.io/twitter/follow/LightySaw?style=social">
-  <img src="https://img.shields.io/badge/Discord-iiCxndy🍬%236715-blue">
+  <img src="https://img.shields.io/badge/Discord-Lyla Watts%236715-blue">
   <p>
 <h2 align="center">😄 Call me anything you would like. 😄</h2>
 <h2 align="center">📫 If you need me, reach me on lylawatts.official@outlook.com 📫</h2>
