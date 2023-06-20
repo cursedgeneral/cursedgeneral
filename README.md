@@ -1,4 +1,4 @@
-<h1 align="center">CursedDays</h1>
+<h1 align="center">CursedGeneral</h1>
 <h2 align="center">Call me CG.</h2>
 <p align="center">
   
